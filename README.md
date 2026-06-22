@@ -48,3 +48,7 @@ Laptop -> Total Quantity = 120
 Keyboard -> Total Quantity = 105
 
 Printer -> Total Quantity = 130
+
+### Developed By
+
+Muthu Ramachandran G
